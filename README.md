@@ -9,7 +9,7 @@ The Lastest Version employs a trustless method for managing cross-chain asset tr
 I know, you got bored of the theory. Not going into much theory from now on, let's start building. Clone the repository in your local.
 
 ```
-git clone https://github.com/Vikash-8090-Yadav/Router-Thapar
+git clone https://github.com/Vikash-8090-Yadav/RouterNitro
 ```
 Install the necessary packages
 
