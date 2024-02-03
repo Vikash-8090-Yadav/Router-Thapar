@@ -9,7 +9,7 @@ The Lastest Version employs a trustless method for managing cross-chain asset tr
 I know, you got bored of the theory. Not going into much theory from now on, let's start building. Clone the repository in your local.
 
 ```
-git clone https://github.com/ShivankK26/Router-Nitro-dApp
+git clone https://github.com/Vikash-8090-Yadav/Router-Thapar
 ```
 Install the necessary packages
 
@@ -19,7 +19,7 @@ npm install
 Run on localhost
 
 ```
-npm start
+npm  run dev 
 ```
 Your application will start running
 
